@@ -1,0 +1,6 @@
+{
+  "plugins": ["node_modules/tsd-jsdoc/dist/plugin"],
+  "source": {
+    "includePattern": ".+\\.(ts|js(doc|x)?)$"
+  }
+}
